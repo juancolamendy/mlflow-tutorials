@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# mlflow
+mlruns/
+artifacts_folder/
+
 # C extensions
 *.so
 
